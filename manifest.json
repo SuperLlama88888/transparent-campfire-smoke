@@ -1,0 +1,46 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Transparent Campfire Smoke",
+		"description": "Makes campfire smoke particles transparent! Transparency available in subpack settings.\nMade by §l§6SuperLlama88888§r.",
+		"uuid": "4bf896d0-1f6c-476c-863d-4180fbfd398c",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"description": "Makes campfire smoke particles transparent!",
+			"uuid": "f8117ff1-eda9-4076-80e0-fd46cf958c05",
+			"version": [1, 0, 0]
+		}
+	],
+	"subpacks": [
+		{
+			"folder_name": "20",
+			"name": "20%% opacity",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "40",
+			"name": "40%% opacity",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "60",
+			"name": "60%% opacity (recommended!)",
+			"memory_tier": 0
+		},
+		{
+			"folder_name": "default",
+			"name": "80%% opacity",
+			"memory_tier": 0
+		}
+	],
+	"settings": [
+		{
+			"type": "label",
+			"text": "Change campfire smoke transparency with the slider."
+		}
+	]
+}
