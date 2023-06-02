@@ -1,4 +1,4 @@
-# transparent-campfire-smoke [![Github All Releases](https://img.shields.io/github/downloads/SuperLlama88888/transparent-campfire-smoke/total.svg)]()
+# transparent-campfire-smoke [![Github All Releases](https://img.shields.io/github/downloads/SuperLlama88888/transparent-campfire-smoke/total.svg?)]()
 
 ## MCBE resource pack to make campfire smoke transparent.
 
